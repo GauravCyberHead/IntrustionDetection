@@ -1,0 +1,15 @@
+# Frontend exclusions
+frontend/node_modules/
+frontend/package-lock.json
+frontend/build/
+frontend/.env
+
+# Backend/Python exclusions
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Project specific
+producer.log
+.DS_Store
